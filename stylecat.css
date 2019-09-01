@@ -1,0 +1,34 @@
+body{
+
+background-color:rgb(221, 192, 26);
+}
+div.container{
+background-color:rgb(241, 237, 177);
+width: 350px;
+display: inline-block;
+margin-left: 500px;
+margin-top: 10px;
+border-radius: 6px;
+}
+.box{
+margin-left: 10px;
+float: right;
+margin-right: 10px;
+margin-bottom: 5px;
+text-align: right;
+}
+.words{
+    text-align: center;
+
+}
+p.align{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: darkblue
+}
+p.datetime{
+float: right;
+color:black;
+}
+
